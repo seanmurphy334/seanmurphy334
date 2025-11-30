@@ -1,6 +1,6 @@
 title: My Website
 description: Portfolio and projects of Sean Murphy
-remote_theme: pages-themes/cayman
+remote_theme: alshedivat/al-folio
 
 # Enable GitHub Pages plugin
 plugins:
