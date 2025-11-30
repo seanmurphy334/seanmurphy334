@@ -1,5 +1,5 @@
 title: My Website
-description: Portfolio and projects of Your Name
+description: Portfolio and projects of Sean Murphy
 remote_theme: pages-themes/cayman
 
 # Enable GitHub Pages plugin
@@ -12,7 +12,7 @@ nav_order: 1
 
 # Add your navigation structure (optional override)
 nav:
-  - title: "Home"
+  - title: "Fundamentals of GIS"
     url: /
   - title: "About Me"
     url: /about
