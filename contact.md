@@ -7,6 +7,6 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 yourname@gmail.com  
-- 🌐 [GitHub](https://github.com/yourusername)  
-- 📍 Based in Japan  
+- 📧 seanmurphy@temple.edu 
+- 🌐 [GitHub][(https://seanmurphy334.github.io/seanmurphy334/)
+- 📍 Based in Philadelphia, PA 
