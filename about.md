@@ -10,3 +10,5 @@ I’m a public policy graduate student interested in visualizing data through ma
 - **Current role:** Program Coordinator in the Political Science Department at Temple University, current Master of Public Policy student.
 - **Previous experience:** 10+ years experience in state & local politics and government in Pennsylvania & Philadelphia.
 - **Interests:** Public policy, data visualization, Philadelphia, transporation.
+- Check out my resume below:
+- ![Sean Murphy - Resume](https://github.com/seanmurphy334/seanmurphy334/blob/main/Murphy%20Resume.png)
