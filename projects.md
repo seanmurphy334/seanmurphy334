@@ -1,4 +1,5 @@
-**Projects**
+
+<h2 style="font-size:32px; text-decoration: underline;">**Projects**</h2>
 
 
 **Population Density in Miami per Block (in part)** 
