@@ -1,4 +1,6 @@
 **Projects**
+
+
 **Population Density in Miami per Block (in part)** 
 A visualization of the population density in Miami per block. Creating this map was interesting as I had previously input data to analyze Miami on a citywide level by U.S. Census Tract, but now needed to determine the most effective way to visualize that on a local block level. I changed the color design convention to make it more clear and visually appealing when at the block level. Thinking through this map made me also consider how best to display busier maps with lots of small divisions of data, but to me it was a true representation of "data is beautiful". This also made me consider which local block level to choose to display for the snapshot for this map. In order to calculate the population density to create this map, I also learned how to create and calculate in a new field with population data and a calculated geometry for each block.
 
