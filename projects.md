@@ -9,7 +9,7 @@ Here are some of my favorite projects from this past semester: (All Fall 2025)
 
 | Project | Description |
 |------|----------|--------------|
-| Population Density in Miami Per Census Tract | A visualization of the population density in Miami per U.S. Census Tract |
+| Population Density in Miami Per Census Tract | A visualization of the population density in Miami per U.S. Census Tract | ![PA 2020 Election Results](https://github.com/seanmurphy334/seanmurphy334/blob/main/PA2020Election.png) | 
 | Percent Occupied Housing in Miami Per Census Tract | A visualization of the percent of occupied housing in Miami per U.S. Census Tract |
 | Percent Vacant Housing in Miami Per Census Tract | A visualization of the percent of vacant housing in Miami per U.S. Census Tract |
 | 2020 Election Results in PA | A county-level vote percentage visualization of the 2020 Presidential Election |
