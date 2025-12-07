@@ -11,4 +11,7 @@ I’m a public policy graduate student interested in visualizing data through ma
 - **Previous experience:** 10+ years experience in state & local politics and government in Pennsylvania & Philadelphia.
 - **Interests:** Public policy, data visualization, Philadelphia, transporation.
 - Check out my resume below:
-- ![Sean Murphy - Resume](https://github.com/seanmurphy334/seanmurphy334/blob/main/Murphy%20Resume.png)
+<a href="https://raw.githubusercontent.com/seanmurphy334/seanmurphy334/main/Murphy Resume.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/seanmurphy334/seanmurphy334/main/Murphy Resume.png" width="600"/>
+</a>
+
